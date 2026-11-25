@@ -22,3 +22,12 @@ window.NEXA_CONFIG = {
   googleMapsApiKey: "PEGA_AQUI_TU_CLAVE_DE_GOOGLE",
 
   // 4) DATOS PARA PAGO POR TRANSFERENCIA (opcional, se llenan después)
+    transferencia: {
+    banco: "PEGA_AQUI_EL_BANCO",
+    tipoCuenta: "PEGA_AQUI",
+    numeroCuenta: "PEGA_AQUI_EL_NUMERO",
+    titular: "PEGA_AQUI_EL_TITULAR",
+    identificacion: "PEGA_AQUI_CEDULA_O_RUC",
+    whatsappComprobantes: "PEGA_AQUI_WHATSAPP",
+  },
+};
